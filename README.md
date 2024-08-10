@@ -13,7 +13,7 @@ The classification of information diffusion tasks is shown below.
 Our survey paper is "A Survey of Datasets for Information Diffusion Tasks" at arXiv ![](https://arxiv.org/abs/2407.05161), which includes more detailed discussions and we will continuously update it as well.
  
 ```BibTeX
-@misc{guo2024surveydatasetsinformationdiffusion,
+@misc{guo2024survey,
       title={A Survey of Datasets for Information Diffusion Tasks}, 
       author={Fuxia Guo and Xiaowen Wang and Yanwei Xie and Zehao Wang and Jingqiu Li and Lanjun Wang},
       year={2024},
