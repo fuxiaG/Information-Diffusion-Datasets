@@ -1,5 +1,5 @@
 # Datasets-for-Information-Diffusion-Tasks
-This is a repository of datasets for information diffusion tasks in the survey _A Survey of Datasets for Information Diffusion Tasks_. The paper can be downloaded [here](https://arxiv.org/abs/2407.05161). We will complete the detail information.
+This is a repository of the datasets for the information diffusion tasks in our survey _A Survey of Datasets for Information Diffusion Tasks_. The paper can be downloaded [here](https://arxiv.org/abs/2407.05161). We will complete the detail information.
 
 
 🚀 Welcome to follow and star! If you find any relevant materials that may be beneficial, feel free to contact us (fuxia_guo61@tju.edu.cn).
