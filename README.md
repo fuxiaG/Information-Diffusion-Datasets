@@ -659,9 +659,15 @@ Format:
 
 - **Weibo17**
   - Sources: Sina Weibo
-  - [Download the dataset.](https://doi.org/10.1145/3123266.3123454) 
+  - [Download the dataset.](https://github.com/plw-study/MRML?tab=readme-ov-file)
   - Paper: [Jin, Z., Cao, J., Guo, H., Zhang, Y., & Luo, J. (2017). Multimodal Fusion with Recurrent Neural Networks for Rumor Detection on Microblogs. Proceedings of the 25th ACM International Conference on Multimedia, 795–816.](https://doi.org/10.1145/3123266.3123454)
   - Time horizon: 2012.5 ~ 2016.1
+ 
+- **WeChat**
+  - Sources: WeChat’s Official Accountsc
+  - [Download the dataset.]([https://doi.org/10.1145/3123266.3123454](https://github.com/yaqingwang/WeFEND-AAAI20)) 
+  - Paper: [Wang, Y., Yang, W., Ma, F., Xu, J., Zhong, B., Deng, Q., & Gao, J. (2020). Weak Supervision for Fake News Detection via Reinforcement Learning. Proceedings of the AAAI Conference on Artificial Intelligence, 34(01), 516-523.](https://doi.org/10.1609/aaai.v34i01.5389)
+  - Time horizon: 2018.3 ~ 2018.10
 
 <!-- 
 - **name**
