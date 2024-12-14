@@ -27,7 +27,7 @@ We survey a systematic taxonomy of information diffusion tasks and datasets base
 
  - We discuss **the limitations and future directions** of current datasets and research topics to advance the future development of information diffusion.
 
-![](./assets/Datasets-Tasks.png)
+![](./assets/main.png)
 
 Figure 1: Categorization of information diffusion tasks under the "5W Model" framework includes information diffusion prediction, social bot detection and misinformation detection, along with their respective subtasks and interrelationships.
 
