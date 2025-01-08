@@ -1,8 +1,5 @@
 # Datasets-for-Information-Diffusion-Tasks
-This is a repository of the datasets for the information diffusion tasks in our survey _A Survey of Datasets for Information Diffusion Tasks_. The paper can be downloaded [here](https://arxiv.org/abs/2407.05161). We will complete the detail information.
-
-
-🚀 Welcome to follow and star! If you find any relevant materials that may be beneficial, feel free to contact us (fuxia_guo61@tju.edu.cn).
+This is a collection of datasets for information diffusion tasks for *A Survey of Datasets for Information Diffusion Tasks*. 
 
 
 
@@ -11,8 +8,8 @@ This is a repository of the datasets for the information diffusion tasks in our 
   - 🔥[Survey](#survey)
   <!-- - 🛖[Tasks](#tasks) -->
   - 📊[Datasets](#datasets)
-  - [Citation](#citation)
   - [License](#license)
+
 
 
 
@@ -27,7 +24,7 @@ We survey a systematic taxonomy of information diffusion tasks and datasets base
 
  - We discuss **the limitations and future directions** of current datasets and research topics to advance the future development of information diffusion.
 
-![](./assets/main.png)
+![](./assets/Datasets-Tasks.png)
 
 Figure 1: Categorization of information diffusion tasks under the "5W Model" framework includes information diffusion prediction, social bot detection and misinformation detection, along with their respective subtasks and interrelationships.
 
@@ -41,7 +38,7 @@ src="./assets/table1.png" width = "100%" alt=""/>
 display: inline-block;
 color: #999;
 padding: 2px;">
-  Table 1: Notations of sSix attributes in the datasets.
+  Table 1: Notations of Six attributes in the datasets.
 </div>
 
 - Attributes for user:
@@ -659,15 +656,9 @@ Format:
 
 - **Weibo17**
   - Sources: Sina Weibo
-  - [Download the dataset.](https://github.com/plw-study/MRML?tab=readme-ov-file)
+  - [Download the dataset.](https://doi.org/10.1145/3123266.3123454) 
   - Paper: [Jin, Z., Cao, J., Guo, H., Zhang, Y., & Luo, J. (2017). Multimodal Fusion with Recurrent Neural Networks for Rumor Detection on Microblogs. Proceedings of the 25th ACM International Conference on Multimedia, 795–816.](https://doi.org/10.1145/3123266.3123454)
   - Time horizon: 2012.5 ~ 2016.1
- 
-- **WeChat**
-  - Sources: WeChat’s Official Accountsc
-  - [Download the dataset.]([https://doi.org/10.1145/3123266.3123454](https://github.com/yaqingwang/WeFEND-AAAI20)) 
-  - Paper: [Wang, Y., Yang, W., Ma, F., Xu, J., Zhong, B., Deng, Q., & Gao, J. (2020). Weak Supervision for Fake News Detection via Reinforcement Learning. Proceedings of the AAAI Conference on Artificial Intelligence, 34(01), 516-523.](https://doi.org/10.1609/aaai.v34i01.5389)
-  - Time horizon: 2018.3 ~ 2018.10
 
 <!-- 
 - **name**
@@ -688,25 +679,6 @@ Format:
 
 <br>
 </details>
-
-
-## Citation
-Our survey paper is ["A Survey of Datasets for Information Diffusion Tasks"](https://arxiv.org/abs/2407.05161) at arXiv, which includes more detailed discussions and we will continuously update it as well. **The latest version was updated on July 6, 2024.**
- 
-If you find our repo is helpful, please consider cite it.
-
-```BibTeX
-@misc{guo2024survey,
-      title={A Survey of Datasets for Information Diffusion Tasks}, 
-      author={Fuxia Guo and Xiaowen Wang and Yanwei Xie and Zehao Wang and Jingqiu Li and Lanjun Wang},
-      year={2024},
-      eprint={2407.05161},
-      archivePrefix={arXiv},
-      primaryClass={cs.SI},
-      url={https://arxiv.org/abs/2407.05161}, 
-}
-
-```
 
 ## License
 
