@@ -2,15 +2,12 @@
 This is a collection of datasets for information diffusion tasks for *A Survey of Datasets for Information Diffusion Tasks*. 
 
 
-
 ## 📌Table of Content
 - [Datasets for Information Diffusion Tasks](#Datasets-for-Information-Diffusion-Tasks)
   - 🔥[Survey](#survey)
   <!-- - 🛖[Tasks](#tasks) -->
   - 📊[Datasets](#datasets)
   - [License](#license)
-
-
 
 
 
@@ -64,7 +61,7 @@ NB: Propagation network edges $E^b$ can be further divided into the following th
 
 
 ### Comparison of datasets
-In terms of the classification of tasks and the six attributes of data, we collect sixty-six publicly available datasets used in current works for each subtask, as shown in Table 2. Additionally, the available URLs for these datasets are provided in Table 3.
+In terms of the classification of tasks and the six attributes of data, we collect sixty-five publicly available datasets used in current works for each subtask, as shown in Table 2. Additionally, the available URLs for these datasets are provided in Table 3.
 
 
 <img 
