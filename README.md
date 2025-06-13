@@ -1,5 +1,5 @@
 # Datasets-for-Information-Diffusion-Tasks
-This is a collection of datasets for information diffusion tasks for *A Survey of Datasets for Information Diffusion Tasks*. 
+This is a collection of datasets for information diffusion tasks for *A Survey of Datasets for Information Diffusion Tasks*. The paper can be downloaded [here](https://arxiv.org/abs/2407.05161).
 
 
 ## 📌Table of Content
@@ -7,6 +7,7 @@ This is a collection of datasets for information diffusion tasks for *A Survey o
   - 🔥[Survey](#survey)
   <!-- - 🛖[Tasks](#tasks) -->
   - 📊[Datasets](#datasets)
+  - [Citation](#citation)
   - [License](#license)
 
 
@@ -676,6 +677,25 @@ Format:
 
 <br>
 </details>
+
+
+
+## Citation
+Our survey paper is ["A Survey of Datasets for Information Diffusion Tasks"](https://arxiv.org/abs/2407.05161) at arXiv, which includes more detailed discussions and we will continuously update it as well. **The latest version was updated on July 6, 2024.**
+ 
+If you find our repo is helpful, please consider cite it.
+
+```BibTeX
+@misc{guo2024survey,
+      title={A Survey of Datasets for Information Diffusion Tasks}, 
+      author={Fuxia Guo and Xiaowen Wang and Yanwei Xie and Zehao Wang and Jingqiu Li and Lanjun Wang},
+      year={2024},
+      eprint={2407.05161},
+      archivePrefix={arXiv},
+      primaryClass={cs.SI},
+      url={https://arxiv.org/abs/2407.05161}, 
+}
+```
 
 ## License
 
